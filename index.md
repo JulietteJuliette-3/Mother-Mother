@@ -7,3 +7,4 @@ Le groupe est composé de : Ryan Guldemond, Molly Guldemond, Jasmin Parkin, Mike
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9d57b636-4d28-4c7a-a006-cfeefa70e52a" />
 
+[page 2](page2.md)
