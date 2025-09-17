@@ -5,4 +5,5 @@ Le groupe est composé de : Ryan Guldemond, Molly Guldemond, Jasmin Parkin, Mike
 ### Liens
 [Le Wiki](https://fr.wikipedia.org/wiki/Mother_Mother)
 
-![Photo album](https://www.mothermothersite.com/inside/)
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9d57b636-4d28-4c7a-a006-cfeefa70e52a" />
+
